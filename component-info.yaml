@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bi-quarterly
+  displayName: BI Quarterly Check-in
+  description: New Dashboard
+  project: People
+spec:
+  type: visualization
+  lifecycle: development
+  owner: cody
